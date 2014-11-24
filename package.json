@@ -4,11 +4,12 @@
   "description": "workflow tut",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/tamerhalim/ggb.git"
   },
   "author": "Tamer Halimoglu",
   "devDependencies": {
     "gulp": "^3.8.10",
+    "gulp-coffee": "^2.2.0",
     "gulp-util": "^3.0.1"
   }
 }
