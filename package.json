@@ -1,0 +1,10 @@
+{
+  "name": "workflows",
+  "version": "0.0.1",
+  "description": "workflow tut",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Tamer Halimoglu"
+}
